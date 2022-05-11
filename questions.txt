@@ -1,0 +1,9 @@
+what is use of fragments in raml?
+what is transactions and different types of transactions?
+Difference between Vm queue and JMS and when to use what?
+how to hide proerties in cloudhub properties?
+VPC,VPN setup?
+cicd setup?
+difference between queue and topic?
+integration with salesforce?
+field validation email using raml?
